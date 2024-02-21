@@ -1,3 +1,3 @@
 # quizzer
 
-A new Flutter project.
+Projet Quiz réalisé avec Flutter
